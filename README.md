@@ -1,3 +1,28 @@
+## Getting Started
+TLDR;
+```
+git clone [pastedLink]
+
+git remote remove origin
+
+cd am-starter && npm i
+
+npm start // or npm run sb
+
+// rename root directory and edit package for actual project name
+
+```
+
+Project is initialized with the follow dependencies
+* Next Js
+* TypeScript
+* Storybook
+* Material UI w/ Base Theme
+* Linting w/ Eslint, Prettier & `@typescript-eslint`
+
+//////// original readme below \\\\\\\\\
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
